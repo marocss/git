@@ -2,7 +2,7 @@
 
 > ˜= 65 min. 
 
-How to use GIT 👌.
+How to use GIT 👌
 
 
 ## Basic workflow
