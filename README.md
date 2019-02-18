@@ -333,7 +333,8 @@ Interlude: how can I edit a file?
 - `git init /path/to/proj` : or run this from anywhere on your computer.
 - after initializing a folder into a repository, Git notices that there are a bunch of changes that can be staged (and committed later).
 
-### How can I create a copy of an existing repository?  - sometimes you will: join a project that is already running; inherit a project from someone; continue working on one of your own on a new machine. In these cases you will clone a repository instead of creating a new one.
+### How can I create a copy of an existing repository?  
+- sometimes you will: join a project that is already running; inherit a project from someone; continue working on one of your own on a new machine. In these cases you will clone a repository instead of creating a new one.
 	- (copies a repo including all of its history into a new dir)
 - `git clone URL` : URL identifies the repository you want to clone.
 	- (https://github.com/datacamp/project.git)
