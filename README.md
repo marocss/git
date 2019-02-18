@@ -1,5 +1,7 @@
 # GIT
 
+> ˜= 65 min. 
+
 How to use GIT 👌.
 
 
