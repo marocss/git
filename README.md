@@ -1,6 +1,6 @@
 # GIT
 
-> ˜= 65 min. 
+> ˜= 15 min. 
 
 How to use GIT 👌
 
