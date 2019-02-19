@@ -5,7 +5,7 @@
 How to use GIT 👌
 
 
-## Basic workflow
+## Basic workflow 💻
 
 ### What is version control?
 - a version control system manages changes in files and directories in a project.
@@ -111,7 +111,7 @@ Interlude: how can I edit a file?
 
 
 
-## Repositories
+## Repositories 💾
 
 ### How does Git store information?
 - Git uses a three-level structure to store the information of each commit that you make.  1. metadata : author, commit message, time of commit.
@@ -211,7 +211,7 @@ Interlude: how can I edit a file?
 
 
 
-## Undo
+## Undo ⏪
 
 ### How can I commit changes selectively?
 - you don't have to put all recent changes in the staging area at once.
@@ -266,7 +266,7 @@ Interlude: how can I edit a file?
 
 
 
-## Working with branches
+## Working with branches 🌲
 
 ### What is a branch?
 - branches : allows for multiple versions of the same work and lets you track of each version systematically.
@@ -324,7 +324,7 @@ Interlude: how can I edit a file?
 
 
 
-## Collaborating
+## Collaborating 👭
 
 ### How can I create a brand new repository?
 - `git init project-name` : creates a repository for a new project. "project-name" is the name you want the repository's root directory to have.
