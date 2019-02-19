@@ -10,9 +10,9 @@ How to use GIT 👌
 ### What is version control?
 - a version control system manages changes in files and directories in a project.
 - Git Strenghts:
-	1. nothing is ever lost. Check different versions of your program.
-	2. notify work conflics.
-	3. sincronize work done by different people on different machines.
+	1 nothing is ever lost. Check different versions of your program.
+	2 notify work conflics.
+	3 sincronize work done by different people on different machines.
 
 ### Where does GIT store information?
 - repository: combination of files and directories and extra info Git records about the project.
